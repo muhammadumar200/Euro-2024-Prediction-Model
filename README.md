@@ -86,7 +86,6 @@ As a Computer Science undergraduate passionate about Artificial Intelligence, I 
 ## 📬 Contact
 
 **Muhammad Umar**  
-- 📧 [Insert your email here]  
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/muhammad-umar-mu2004/)  
 - 💻 [GitHub Profile](https://github.com/muhammadumar200/)
 
